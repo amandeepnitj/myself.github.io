@@ -160,11 +160,22 @@ sup {
 .fabiconcustom
 {
   
-  margin: 1rem;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 900;
+  line-height: 1.2;
+  font-size: 1.8em;
+  color: #343a40;
+  
 }
 .fabiconcustom:hover
 {
+
   text-decoration: none;
+  color: #bd5d38;
+  
+
   
 }
 .jobrole{
